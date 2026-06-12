@@ -418,6 +418,30 @@
       "settings": {
         "custom_liquid": "{%- comment -%} ══════════════════════════════════════════════\n  SILKARA — TRUST TRIO SECTION + FOOTER (standalone)\n  Drop these two blocks anywhere you need them.\n  Requires the #sk CSS variables to be loaded on the page.\n══════════════════════════════════════════════ {%- endcomment -%}\n\n{%- comment -%} ── SECTION: Trust Trio (the section just before the footer) ── {%- endcomment -%}\n<section class=\"sect\" id=\"sk-trust\"><div class=\"wrap\"><div class=\"trio\">\n  <div class=\"ti\"><div class=\"ico\">🌸</div><h3>Gentle &amp; Effective</h3><p>Kind, thoughtfully chosen formulas that work.</p></div>\n  <div class=\"ti\"><div class=\"ico\">✦</div><h3>Quietly Luxurious</h3><p>Beautiful essentials that feel as good as they look.</p></div>\n  <div class=\"ti\"><div class=\"ico\">💌</div><h3>Easy &amp; Trusted</h3><p>Cash on delivery and friendly support.</p></div>\n</div></div></section>\n\n{%- comment -%} ── FOOTER ── {%- endcomment -%}\n<footer class=\"ft\" id=\"sk-footer\"><div class=\"wrap\">\n  <div class=\"ft-grid\">\n    <div>\n      <div class=\"name\">SILKARA</div>\n      <p class=\"tag\">Premium skincare &amp; haircare essentials, thoughtfully chosen and delivered to your door.</p>\n    </div>\n    <div>\n      <h4>Shop</h4>\n      <ul>\n        <li><a href=\"{{ routes.all_products_collection_url }}\">All Products</a></li>\n        {%- assign p = product | default: collections.all.products.first -%}\n        {%- if p -%}<li><a href=\"{{ p.url }}\">{{ p.title | truncate: 24 }}</a></li>{%- endif -%}\n      </ul>\n    </div>\n    <div>\n      <h4>Help</h4>\n      <ul>\n        <li><a href=\"/pages/contact\">Contact</a></li>\n        <li><a href=\"/pages/shipping\">Shipping</a></li>\n        <li><a href=\"/pages/returns\">Returns</a></li>\n        <li><a href=\"/pages/about\">About</a></li>\n      </ul>\n    </div>\n  </div>\n  <div class=\"ft-bottom\">\n    <p>© {{ 'now' | date: '%Y' }} Silkara · Skin &amp; Hair</p>\n    <span class=\"cod\">Cash on Delivery available</span>\n  </div>\n</div></footer>\n\n{%- comment -%} ══ Scoped styles — only needed if NOT using the full product page template ══ {%- endcomment -%}\n<style>\n  /* Only include this <style> block if you're NOT using the full product page template.\n     If the full template is already loaded, these are already covered. */\n  :root {\n    --bg:#FFFFFF; --cream:#FBF3F1; --blush:#F6E6E3; --accent:#B26E73; --accent2:#CDA0A0;\n    --ink:#3E2F33; --text:#6E5F62; --line:#EEE0DC; --foot:#3E2F33;\n    --serif:'Cormorant Garamond',Georgia,'Times New Roman',serif;\n    --sans:'Jost',-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;\n  }\n\n  /* Trust Trio */\n  #sk-trust { padding:90px 0; background:#FFFFFF; }\n  #sk-trust .wrap { max-width:1280px; margin:0 auto; padding:0 40px; box-sizing:border-box; }\n  #sk-trust .trio { display:grid; grid-template-columns:repeat(3,1fr); gap:50px; }\n  #sk-trust .ti { text-align:center; min-width:0; box-sizing:border-box; }\n  #sk-trust .ti .ico { font-size:28px; margin-bottom:14px; }\n  #sk-trust .ti h3 { font-family:var(--serif); font-size:21px; font-weight:500; margin:0 0 6px; color:var(--ink); }\n  #sk-trust .ti p { font-size:14px; color:var(--text); margin:0; max-width:260px; margin-inline:auto; font-family:var(--sans); font-weight:300; line-height:1.7; }\n\n  /* Footer */\n  #sk-footer { background:var(--foot); color:#F1E6E3; padding:70px 0 0; font-family:var(--sans); font-weight:300; box-sizing:border-box; width:100%; }\n  #sk-footer *, #sk-footer *::before, #sk-footer *::after { box-sizing:border-box; }\n  #sk-footer .wrap { max-width:1280px; margin:0 auto; padding:0 40px; }\n  #sk-footer a { color:#F1E6E3; text-decoration:none; opacity:.78; }\n  #sk-footer a:hover { opacity:1; }\n  #sk-footer .ft-grid { display:grid; grid-template-columns:1.6fr 1fr 1fr; gap:48px; padding-bottom:50px; }\n  #sk-footer .ft-grid > * { min-width:0; }\n  #sk-footer .name { font-family:var(--serif); font-size:28px; font-weight:500; letter-spacing:6px; text-indent:6px; color:#fff; }\n  #sk-footer .tag { opacity:.7; font-size:14px; max-width:320px; margin-top:14px; color:#D8C7C3; line-height:1.7; }\n  #sk-footer h4 { font-size:11px; font-weight:500; text-transform:uppercase; letter-spacing:2.5px; margin:0 0 18px; color:#fff; font-family:var(--sans); }\n  #sk-footer ul { list-style:none; padding:0; margin:0; }\n  #sk-footer li { margin-bottom:12px; font-size:14px; }\n  #sk-footer .ft-bottom { border-top:1px solid rgba(255,255,255,.12); padding:24px 0; display:flex; flex-wrap:wrap; gap:14px; justify-content:space-between; align-items:center; }\n  #sk-footer .ft-bottom p { margin:0; font-size:12px; letter-spacing:1px; opacity:.55; color:#D8C7C3; }\n  #sk-footer .cod { font-size:11px; letter-spacing:2px; text-transform:uppercase; opacity:.7; color:#F1E6E3; }\n\n  /* Responsive */\n  @media(max-width:860px) {\n    #sk-trust .wrap, #sk-footer .wrap { padding:0 20px; }\n    #sk-footer .ft-grid { grid-template-columns:1fr 1fr; }\n  }\n  @media(max-width:760px) {\n    #sk-trust .trio { grid-template-columns:1fr; gap:36px; }\n    #sk-footer .ft-grid { grid-template-columns:1fr; }\n  }\n</style>"
       }
+    },
+    "1781286991d29d1421": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_pQ3GrX": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "sample_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_pQ3GrX"
+      ],
+      "settings": {
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -432,6 +456,7 @@
     "related",
     "section_icons_pqMPNP",
     "section_liquid_MJUfKh",
+    "1781286991d29d1421",
     "section_liquid_hchChA"
   ]
 }
