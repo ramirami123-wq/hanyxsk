@@ -1,1 +1,219 @@
-{"sections":{"hero":{"type":"section-hero","settings":{"image":"shopify:\/\/shop_images\/1780306769_Aurea_Logo.png","height":"use_screen_two_thirds","overlay_opacity":15,"overlay_color":"#000000","enable_overlay_text":false,"preload_image":true,"content_width":2000,"text_align":"align--middle-center","text_color":"text--white","color_bg":"hero__content--transparent","width":"wrapper--none","padding_top":0,"padding_bottom":0}},"tabs":{"type":"section-collection-tabs","blocks":{"tab-0":{"type":"collection","settings":{"collection":"frontpage","title":""}}},"block_order":["tab-0"],"settings":{"title":"","progress_bar":"mobile","grid_large":4,"grid_medium":3,"grid_mobile":1.2,"limit":6,"bg":"palette--light bg--neutral","width":"wrapper--full","padding_top":64,"padding_bottom":36}},"section_announcement_gVGPyg":{"type":"section-announcement","blocks":{"text_iNqR6n":{"type":"text","settings":{"text":"<p><strong>Delivery All Over Lebanon<\/strong><\/p>"}},"icon_block_HWwC9e":{"type":"icon_block","settings":{"text":"","icon_name":"icon-truck","icon_color":"#fffcf9","icon_alt_width":33}}},"block_order":["text_iNqR6n","icon_block_HWwC9e"],"name":"Scrolling promotion","settings":{"bg_color":"#dbb4b8","color":"#fffcf9","text_size":7,"padding_top":18,"padding_bottom":18}},"double":{"type":"section-double","blocks":{"text":{"type":"text","settings":{"kicker":"At Aurea Beauty","title":"","text":"<p>At our beauty store, we believe confidence starts with feeling your best. We carefully select trending beauty products designed to enhance your natural beauty, simplify your routine, and deliver real results. Our mission is to offer high-quality products, reliable service, and a seamless shopping experience for every customer.<br\/><br\/>- Premium Beauty Products<br\/>- Fast Delivery Across Lebanon<br\/>-Customer Satisfaction First<br\/>-Safe & Secure Shopping<\/p>","font_size":5,"text_columns":1,"align_text":"text-left","button_text":"","button_url":"","button_color":"btn--neutral","button_style":"btn-text-thick-line","text_color":"text--neutral","bg_color":"#f7f7f7"}}},"block_order":["text"],"settings":{"height":"use_screen_one_half","brick_gutter":0,"borders":false,"bg_color":"","preload_image":false,"width":"wrapper--none","padding_top":36,"padding_bottom":0}},"section_announcement_bnndaY":{"type":"section-announcement","blocks":{"text_BDMcJC":{"type":"text","settings":{"text":"<p><strong>Aurea Beauty<\/strong><\/p>"}}},"block_order":["text_BDMcJC"],"name":"Scrolling promotion","settings":{"bg_color":"#dbb4b8","color":"#fffcf9","text_size":7,"padding_top":18,"padding_bottom":18}},"section_liquid_qgzDMr":{"type":"section-liquid","name":"Custom Liquid","settings":{"custom_liquid":"<style>\n  .faq-section {\n    max-width: 760px;\n    margin: 35px auto;\n    padding: 0 16px;\n    font-family: inherit;\n  }\n\n  .faq-title {\n    text-align: center;\n    font-size: 28px;\n    font-weight: 800;\n    margin-bottom: 22px;\n  }\n\n  .faq-item {\n    border: 1px solid #eee;\n    border-radius: 14px;\n    margin-bottom: 12px;\n    padding: 16px 18px;\n    background: #fff7fa;\n  }\n\n  .faq-question {\n    font-weight: 700;\n    font-size: 16px;\n    margin-bottom: 8px;\n  }\n\n  .faq-answer {\n    font-size: 15px;\n    color: #555;\n    line-height: 1.6;\n  }\n<\/style>\n\n<div class=\"faq-section\">\n  <h2 class=\"faq-title\">FAQ's<\/h2>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How can I contact you?<\/div>\n    <div class=\"faq-answer\">\n      You can contact us directly through WhatsApp for any questions or order support.\n    <\/div>\n  <\/div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How long does delivery take?<\/div>\n    <div class=\"faq-answer\">\n      Delivery usually takes between 5 to 7 days, depending on your location.\n    <\/div>\n  <\/div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">Are the products safe to use?<\/div>\n    <div class=\"faq-answer\">\n      Yes, our products are carefully selected and safe to use when following the product instructions.\n    <\/div>\n  <\/div>\n<\/div>"}},"icons":{"type":"section-icons","blocks":{"icons-1":{"type":"icon_block","settings":{"icon_name":"icon-shipment-world","icon_color":"#aaaaaa","title":"Delivery All Over Lebanon","text":"","link_text":"","link_url":""}},"icons-2":{"type":"icon_block","settings":{"icon_name":"icon-phone","icon_color":"#aaaaaa","title":"24\/7 support","text":"","link_text":"","link_url":""}}},"block_order":["icons-1","icons-2"],"settings":{"title":"","bg":"palette--light bg--neutral","icons_size":30,"icon_alignment":"icon--top","layout":"grid--stacked","align_text":"text-center","width":"wrapper","padding_top":36,"padding_bottom":36}}},"order":["hero","tabs","section_announcement_gVGPyg","double","section_announcement_bnndaY","section_liquid_qgzDMr","icons"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": true,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "tabs": {
+      "type": "section-collection-tabs",
+      "blocks": {
+        "tab-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "progress_bar": "mobile",
+        "grid_large": 4,
+        "grid_medium": 3,
+        "grid_mobile": 1.2,
+        "limit": 6,
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--full",
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "section_announcement_gVGPyg": {
+      "type": "section-announcement",
+      "blocks": {
+        "text_iNqR6n": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Delivery All Over Lebanon</strong></p>"
+          }
+        },
+        "icon_block_HWwC9e": {
+          "type": "icon_block",
+          "settings": {
+            "text": "",
+            "icon_name": "icon-truck",
+            "icon_color": "#fffcf9",
+            "icon_alt_width": 33
+          }
+        }
+      },
+      "block_order": [
+        "text_iNqR6n",
+        "icon_block_HWwC9e"
+      ],
+      "disabled": true,
+      "name": "Scrolling promotion",
+      "settings": {
+        "bg_color": "#dbb4b8",
+        "color": "#fffcf9",
+        "text_size": 7,
+        "padding_top": 18,
+        "padding_bottom": 18
+      }
+    },
+    "double": {
+      "type": "section-double",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "kicker": "At Aurea Beauty",
+            "title": "",
+            "text": "<p>At our beauty store, we believe confidence starts with feeling your best. We carefully select trending beauty products designed to enhance your natural beauty, simplify your routine, and deliver real results. Our mission is to offer high-quality products, reliable service, and a seamless shopping experience for every customer.<br/><br/>- Premium Beauty Products<br/>- Fast Delivery Across Lebanon<br/>-Customer Satisfaction First<br/>-Safe & Secure Shopping</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": "#f7f7f7"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper--none",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "section_announcement_bnndaY": {
+      "type": "section-announcement",
+      "blocks": {
+        "text_BDMcJC": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Aurea Beauty</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_BDMcJC"
+      ],
+      "disabled": true,
+      "name": "Scrolling promotion",
+      "settings": {
+        "bg_color": "#dbb4b8",
+        "color": "#fffcf9",
+        "text_size": 7,
+        "padding_top": 18,
+        "padding_bottom": 18
+      }
+    },
+    "section_liquid_qgzDMr": {
+      "type": "section-liquid",
+      "disabled": true,
+      "name": "Custom Liquid",
+      "settings": {
+        "custom_liquid": "<style>\n  .faq-section {\n    max-width: 760px;\n    margin: 35px auto;\n    padding: 0 16px;\n    font-family: inherit;\n  }\n\n  .faq-title {\n    text-align: center;\n    font-size: 28px;\n    font-weight: 800;\n    margin-bottom: 22px;\n  }\n\n  .faq-item {\n    border: 1px solid #eee;\n    border-radius: 14px;\n    margin-bottom: 12px;\n    padding: 16px 18px;\n    background: #fff7fa;\n  }\n\n  .faq-question {\n    font-weight: 700;\n    font-size: 16px;\n    margin-bottom: 8px;\n  }\n\n  .faq-answer {\n    font-size: 15px;\n    color: #555;\n    line-height: 1.6;\n  }\n</style>\n\n<div class=\"faq-section\">\n  <h2 class=\"faq-title\">FAQ's</h2>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How can I contact you?</div>\n    <div class=\"faq-answer\">\n      You can contact us directly through WhatsApp for any questions or order support.\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How long does delivery take?</div>\n    <div class=\"faq-answer\">\n      Delivery usually takes between 5 to 7 days, depending on your location.\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">Are the products safe to use?</div>\n    <div class=\"faq-answer\">\n      Yes, our products are carefully selected and safe to use when following the product instructions.\n    </div>\n  </div>\n</div>"
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "blocks": {
+        "icons-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#aaaaaa",
+            "title": "Delivery All Over Lebanon",
+            "text": "",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-phone",
+            "icon_color": "#aaaaaa",
+            "title": "24/7 support",
+            "text": "",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icons-1",
+        "icons-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "icons_size": 30,
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-center",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_liquid_ttLQNK": {
+      "type": "section-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "custom_liquid": "{%- comment -%} SILKARA — HOMEPAGE (blush · skincare/haircare) {%- endcomment -%}\n{%- assign logo_url = \"https://cdn.shopify.com/s/files/1/0649/5702/2293/files/1780554076_WhatsApp_Image_2026-06-02_at_2.29.35_AM.jpg?v=1781280887\" -%}\n{%- assign names  = \"Hair Mask Karseell,Jelly Cream Collagen,Coming Soon,Coming Soon\" | split: \",\" -%}\n{%- assign blurbs = \"Collagen-rich repair mask for soft, shiny, healthy hair.|Collagen jelly cream for plump, bouncy, hydrated skin.|New beauty essential, landing soon.|New beauty essential, landing soon.\" | split: \"|\" -%}\n{%- assign hero = collections.all.products.first -%}\n\n<style>\n  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&family=Jost:wght@300;400;500&display=swap');\n  #sk{--bg:#FFFFFF;--cream:#FBF3F1;--blush:#F6E6E3;--accent:#B26E73;--accent2:#CDA0A0;--ink:#3E2F33;--text:#6E5F62;--line:#EEE0DC;--foot:#3E2F33;\n    --serif:'Cormorant Garamond',Georgia,'Times New Roman',serif;--sans:'Jost',-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;\n    font-family:var(--sans);color:var(--ink);line-height:1.7;background:var(--bg);font-weight:300;\n    position:relative;width:100vw;left:50%;right:50%;margin-left:-50vw;margin-right:-50vw;}\n  #sk *{box-sizing:border-box;}\n  #sk img{max-width:100%;display:block;}\n  #sk .wrap{max-width:1280px;margin:0 auto;padding:0 40px;}\n  #sk .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;background:var(--accent);color:#fff;font-family:var(--sans);font-weight:500;font-size:12px;letter-spacing:2.5px;text-transform:uppercase;border:none;border-radius:2px;padding:17px 42px;cursor:pointer;text-decoration:none;transition:background .25s,transform .2s;}\n  #sk .btn:hover{background:var(--ink);transform:translateY(-1px);}\n  #sk .eyebrow{font-size:11px;font-weight:500;letter-spacing:4px;text-transform:uppercase;color:var(--accent);}\n  #sk h2.disp{font-family:var(--serif);font-weight:500;font-size:clamp(30px,4vw,46px);line-height:1.12;letter-spacing:.5px;color:var(--ink);margin:0;}\n  #sk .sect{padding:96px 0;}\n  #sk .ann{background:var(--ink);color:#F6EAE7;overflow:hidden;}\n  #sk .ann-track{display:flex;gap:64px;white-space:nowrap;padding:11px 0;animation:sk-ann 30s linear infinite;}\n  #sk .ann:hover .ann-track{animation-play-state:paused;}\n  #sk .ann span{font-size:11px;font-weight:400;letter-spacing:2.5px;text-transform:uppercase;}\n  @keyframes sk-ann{from{transform:translateX(0);}to{transform:translateX(-50%);}}\n  #sk .hdr{background:rgba(255,255,255,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:40;}\n  #sk .hdr-in{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:16px 40px;max-width:1280px;margin:0 auto;}\n  #sk .hdr-nav{display:flex;gap:34px;}\n  #sk .hdr-nav a{color:var(--ink);text-decoration:none;font-size:12px;font-weight:400;letter-spacing:2px;text-transform:uppercase;transition:color .2s;}\n  #sk .hdr-nav a:hover{color:var(--accent);}\n  #sk .hdr-logo{justify-self:center;text-decoration:none;display:flex;flex-direction:column;align-items:center;line-height:1;}\n  #sk .hdr-logo .wm{font-family:var(--serif);font-size:30px;font-weight:600;color:var(--ink);letter-spacing:6px;text-indent:6px;}\n  #sk .hdr-logo .sub{font-size:8px;font-weight:500;color:var(--accent2);letter-spacing:5px;text-indent:5px;margin-top:3px;}\n  #sk .hdr-logo img{height:66px;width:auto;}\n  #sk .hdr-act{justify-self:end;display:flex;align-items:center;gap:22px;}\n  #sk .hdr-act a,#sk .hdr-act button{background:none;border:none;cursor:pointer;color:var(--ink);text-decoration:none;display:flex;padding:0;}\n  #sk .hdr-act svg{width:20px;height:20px;stroke-width:1.4;}\n  #sk .hdr-cart{position:relative;}\n  #sk .hdr-count{position:absolute;top:-8px;right:-10px;background:var(--accent);color:#fff;font-size:10px;font-weight:500;min-width:17px;height:17px;border-radius:9px;display:flex;align-items:center;justify-content:center;padding:0 4px;}\n  @media(max-width:860px){#sk .hdr-nav{display:none;}}\n  #sk .hero{position:relative;min-height:88vh;display:flex;align-items:center;justify-content:center;text-align:center;background:linear-gradient(160deg,#FBF3F1 0%,#F2DAD6 55%,#E8C6C2 100%);overflow:hidden;}\n  #sk .hero-in{position:relative;z-index:2;max-width:720px;padding:40px;}\n  #sk .hero h1{font-family:var(--serif);font-weight:500;font-size:clamp(40px,7vw,82px);line-height:1.04;letter-spacing:1px;margin:18px 0 22px;color:var(--ink);}\n  #sk .hero p{font-size:clamp(15px,1.6vw,19px);color:var(--text);max-width:480px;margin:0 auto 34px;font-weight:300;}\n  #sk .values{border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--bg);}\n  #sk .values-in{max-width:1280px;margin:0 auto;display:flex;flex-wrap:wrap;justify-content:center;gap:14px 56px;padding:22px 40px;}\n  #sk .values span{font-size:11px;letter-spacing:3px;text-transform:uppercase;color:var(--text);display:flex;align-items:center;gap:10px;}\n  #sk .values span::before{content:\"✦\";color:var(--accent2);font-size:10px;}\n  #sk .head{max-width:620px;margin:0 auto 56px;text-align:center;}\n  #sk .head .eyebrow{display:block;margin-bottom:14px;}\n  #sk .head p{color:var(--text);margin:14px auto 0;font-size:16px;}\n  #sk .grid{display:grid;grid-template-columns:repeat(4,1fr);gap:40px 30px;}\n  #sk .grid a.card{text-decoration:none;color:var(--ink);display:block;}\n  #sk .card .imgwrap{position:relative;overflow:hidden;background:var(--cream);border-radius:3px;aspect-ratio:3/4;}\n  #sk .card .imgwrap img{width:100%;height:100%;object-fit:cover;transition:transform .7s ease;}\n  #sk .card:hover .imgwrap img{transform:scale(1.05);}\n  #sk .card .ph{width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:48px;background:linear-gradient(140deg,#F6E6E3,#e7c9c4);}\n  #sk .card .tag{position:absolute;top:14px;left:14px;background:rgba(255,255,255,.92);color:var(--ink);font-size:10px;letter-spacing:1.5px;text-transform:uppercase;padding:6px 11px;border-radius:2px;}\n  #sk .card .nm{font-family:var(--serif);font-size:21px;font-weight:500;margin:18px 0 4px;letter-spacing:.3px;}\n  #sk .card .bl{font-size:13px;color:var(--text);margin:0 0 10px;line-height:1.6;}\n  #sk .card .pr{color:var(--accent);font-size:15px;letter-spacing:.5px;}\n  #sk .card .shop{display:inline-block;margin-top:12px;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;color:var(--ink);border-bottom:1px solid var(--accent);padding-bottom:3px;}\n  @media(max-width:980px){#sk .grid{grid-template-columns:1fr 1fr;gap:34px 22px;}}\n  @media(max-width:520px){#sk .grid{grid-template-columns:1fr 1fr;gap:24px 16px;}}\n  #sk .ed{display:grid;grid-template-columns:1fr 1fr;gap:0;align-items:stretch;}\n  #sk .ed .media{background:var(--cream);min-height:560px;overflow:hidden;}\n  #sk .ed .media img{width:100%;height:100%;object-fit:cover;}\n  #sk .ed .media .ph{width:100%;height:100%;min-height:560px;display:flex;align-items:center;justify-content:center;font-size:72px;background:linear-gradient(140deg,#F6E6E3,#e3c2bd);}\n  #sk .ed .copy{background:var(--blush);display:flex;flex-direction:column;justify-content:center;padding:clamp(40px,6vw,90px);}\n  #sk .ed .copy h2{margin:16px 0 18px;}\n  #sk .ed .feat{list-style:none;padding:0;margin:0 0 30px;}\n  #sk .ed .feat li{display:flex;gap:12px;margin-bottom:13px;font-size:15px;color:var(--ink);}\n  #sk .ed .feat li::before{content:\"—\";color:var(--accent);}\n  #sk .ed .price{font-family:var(--serif);font-size:30px;color:var(--accent);margin-bottom:26px;}\n  @media(max-width:860px){#sk .ed{grid-template-columns:1fr;}#sk .ed .media,#sk .ed .media .ph{min-height:420px;}}\n  #sk .quote{background:var(--ink);color:#F6EAE7;text-align:center;}\n  #sk .quote .wrap{padding:110px 40px;}\n  #sk .quote .eyebrow{color:var(--accent2);}\n  #sk .quote blockquote{font-family:var(--serif);font-weight:400;font-size:clamp(26px,3.4vw,42px);line-height:1.3;letter-spacing:.5px;max-width:860px;margin:22px auto 0;font-style:italic;}\n  #sk .trio{display:grid;grid-template-columns:repeat(3,1fr);gap:50px;}\n  #sk .trio .ti{text-align:center;}\n  #sk .trio .ti .ico{font-size:30px;margin-bottom:16px;}\n  #sk .trio .ti h3{font-family:var(--serif);font-size:22px;font-weight:500;margin:0 0 8px;color:var(--ink);}\n  #sk .trio .ti p{font-size:14px;color:var(--text);margin:0;max-width:280px;margin-inline:auto;}\n  @media(max-width:760px){#sk .trio{grid-template-columns:1fr;gap:40px;}}\n  #sk .nl{background:var(--cream);text-align:center;}\n  #sk .nl .wrap{padding:90px 40px;}\n  #sk .nl h2{margin:14px 0 10px;}\n  #sk .nl p{color:var(--text);margin:0 auto 28px;max-width:440px;}\n  #sk .nl form{display:flex;max-width:460px;margin:0 auto;gap:10px;flex-wrap:wrap;justify-content:center;}\n  #sk .nl input{flex:1;min-width:220px;padding:15px 18px;border:1px solid var(--line);background:#fff;color:var(--ink);border-radius:2px;font-family:var(--sans);font-size:14px;}\n  #sk .nl button{border:none;cursor:pointer;}\n  #sk .ft{background:var(--foot);color:#F1E6E3;padding:70px 0 0;}\n  #sk .ft a{color:#F1E6E3;text-decoration:none;opacity:.78;transition:opacity .2s;}#sk .ft a:hover{opacity:1;}\n  #sk .ft-grid{display:grid;grid-template-columns:1.6fr 1fr 1fr;gap:48px;padding-bottom:50px;}\n  #sk .ft .name{font-family:var(--serif);font-size:28px;font-weight:500;letter-spacing:6px;text-indent:6px;color:#fff;}\n  #sk .ft .tag{opacity:.7;font-size:14px;max-width:320px;margin-top:14px;color:#D8C7C3;}\n  #sk .ft h4{font-size:11px;font-weight:500;text-transform:uppercase;letter-spacing:2.5px;margin:0 0 18px;color:#fff;}\n  #sk .ft ul{list-style:none;padding:0;margin:0;}#sk .ft li{margin-bottom:12px;font-size:14px;}\n  #sk .ft-bottom{border-top:1px solid rgba(255,255,255,.12);padding:24px 0;display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:center;}\n  #sk .ft-bottom p{margin:0;font-size:12px;letter-spacing:1px;opacity:.55;color:#D8C7C3;}\n  #sk .ft-bottom .cod{font-size:11px;letter-spacing:2px;text-transform:uppercase;opacity:.7;}\n  @media(max-width:760px){#sk .ft-grid{grid-template-columns:1fr 1fr;}}\n  #sk .cd-ov{position:fixed;inset:0;background:rgba(62,47,51,.5);z-index:9990;opacity:0;visibility:hidden;transition:opacity .3s;}\n  #sk .cd-ov.open{opacity:1;visibility:visible;}\n  #sk .cd{position:fixed;top:0;right:0;bottom:0;width:420px;max-width:92vw;background:#fff;z-index:9991;display:flex;flex-direction:column;transform:translateX(100%);transition:transform .35s cubic-bezier(.4,0,.2,1);}\n  #sk .cd.open{transform:translateX(0);}\n  #sk .cd-head{display:flex;align-items:center;justify-content:space-between;padding:24px;border-bottom:1px solid var(--line);}\n  #sk .cd-head h3{margin:0;font-size:12px;font-weight:500;color:var(--ink);text-transform:uppercase;letter-spacing:2.5px;}\n  #sk .cd-close{background:none;border:none;font-size:26px;cursor:pointer;color:var(--ink);line-height:1;}\n  #sk .cd-items{flex:1;overflow-y:auto;padding:18px 24px;}\n  #sk .cd-item{display:flex;gap:14px;padding:16px 0;border-bottom:1px solid var(--line);}\n  #sk .cd-item img{width:66px;height:66px;object-fit:cover;border-radius:2px;background:var(--cream);}\n  #sk .cd-title{font-family:var(--serif);font-size:17px;color:var(--ink);text-decoration:none;}\n  #sk .cd-qty{display:inline-flex;align-items:center;border:1px solid var(--line);border-radius:2px;margin-top:8px;}\n  #sk .cd-qty button{width:28px;height:28px;border:none;background:none;cursor:pointer;font-size:15px;color:var(--ink);}\n  #sk .cd-qty span{width:30px;text-align:center;font-size:13px;color:var(--ink);}\n  #sk .cd-rm{background:none;border:none;color:#B7A6A2;font-size:11px;letter-spacing:1px;cursor:pointer;text-decoration:underline;padding:0;margin-top:6px;}\n  #sk .cd-foot{padding:24px;border-top:1px solid var(--line);}\n  #sk .cd-sub{display:flex;justify-content:space-between;font-size:15px;margin-bottom:6px;color:var(--ink);}\n  #sk .cd-sub b{font-family:var(--serif);font-size:20px;font-weight:500;}\n  #sk .cd-co{display:block;text-align:center;background:var(--accent);color:#fff;border-radius:2px;padding:16px;font-size:12px;letter-spacing:2.5px;text-transform:uppercase;text-decoration:none;margin-top:8px;}\n  #sk .cd-co:hover{background:var(--ink);}\n  #sk .cd-empty{text-align:center;color:#B7A6A2;padding:70px 20px;font-size:14px;}\n</style>\n\n<div id=\"sk\">\n\n  <div class=\"ann\"><div class=\"ann-track\">\n    {%- for i in (1..2) -%}\n      <span>Premium skincare &amp; haircare</span><span>Cash on delivery available</span><span>Gentle, effective formulas</span><span>Loved by our customers</span>\n    {%- endfor -%}\n  </div></div>\n\n  <header class=\"hdr\"><div class=\"hdr-in\">\n    <nav class=\"hdr-nav\">\n      <a href=\"{{ routes.root_url }}\">Home</a>\n      <a href=\"{{ routes.all_products_collection_url }}\">Shop</a>\n      <a href=\"/pages/about\">About</a>\n    </nav>\n    <a class=\"hdr-logo\" href=\"{{ routes.root_url }}\">{%- if logo_url != blank -%}<img src=\"{{ logo_url }}\" alt=\"Silkara\">{%- elsif shop.brand.logo -%}<img src=\"{{ shop.brand.logo | image_url: width: 360 }}\" alt=\"{{ shop.name | escape }}\">{%- else -%}<span class=\"wm\">SILKARA</span><span class=\"sub\">SKIN &amp; HAIR</span>{%- endif -%}</a>\n    <div class=\"hdr-act\">\n      <a href=\"{{ routes.search_url }}\" aria-label=\"Search\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\"><circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"m21 21-4.3-4.3\"/></svg></a>\n      <a href=\"{{ routes.account_url }}\" aria-label=\"Account\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\"><circle cx=\"12\" cy=\"8\" r=\"4\"/><path d=\"M4 21c0-4 4-6 8-6s8 2 8 6\"/></svg></a>\n      <button class=\"hdr-cart\" onclick=\"skCartOpen()\" aria-label=\"Cart\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\"><path d=\"M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z\"/><path d=\"M3 6h18\"/><path d=\"M16 10a4 4 0 0 1-8 0\"/></svg><span class=\"hdr-count\" id=\"sk-count\">{{ cart.item_count }}</span></button>\n    </div>\n  </div></header>\n\n  <section class=\"hero\">\n    <div class=\"hero-in\">\n      <span class=\"eyebrow\">Silkara · Skin &amp; Hair</span>\n      <h1>Glow, naturally.</h1>\n      <p>Premium skincare and haircare essentials — gentle, effective and made to make self-care feel like a ritual.</p>\n      <a class=\"btn\" href=\"{{ routes.all_products_collection_url }}\">Shop the Collection</a>\n    </div>\n  </section>\n\n  <div class=\"values\"><div class=\"values-in\">\n    <span>Gentle &amp; Effective</span><span>Cash on Delivery</span><span>Loved by Customers</span><span>Beautifully Simple</span>\n  </div></div>\n\n  <section class=\"sect\"><div class=\"wrap\">\n    <div class=\"head\">\n      <span class=\"eyebrow\">The Collection</span>\n      <h2 class=\"disp\">Beauty essentials</h2>\n      <p>A thoughtful edit of skincare and haircare — each chosen for how gently and beautifully it works.</p>\n    </div>\n    <div class=\"grid\">\n      {%- assign storeprods = collections.all.products -%}\n      {%- if storeprods.size > 0 -%}\n        {%- for prod in storeprods limit: 8 -%}\n          <a class=\"card\" href=\"{{ prod.url }}\">\n            <div class=\"imgwrap\">\n              {%- if prod.featured_image -%}<img src=\"{{ prod.featured_image | image_url: width: 700 }}\" alt=\"{{ prod.title | escape }}\">{%- else -%}<div class=\"ph\">🌸</div>{%- endif -%}\n              {%- if prod.compare_at_price > prod.price -%}<span class=\"tag\">Sale</span>{%- endif -%}\n            </div>\n            <h3 class=\"nm\">{{ prod.title }}</h3>\n            <p class=\"bl\">{{ prod.description | strip_html | strip_newlines | replace: '        ', ' ' | replace: '      ', ' ' | replace: '    ', ' ' | replace: '   ', ' ' | replace: '  ', ' ' | replace: '  ', ' ' | strip | truncatewords: 12 }}</p>\n            <div class=\"pr\">{{ prod.price | money }}</div>\n            <span class=\"shop\">Shop</span>\n          </a>\n        {%- endfor -%}\n      {%- else -%}\n        {%- for nm in names -%}\n          {%- assign bl = blurbs[forloop.index0] -%}\n          <a class=\"card\" href=\"{{ routes.all_products_collection_url }}\">\n            <div class=\"imgwrap\"><div class=\"ph\">🌸</div></div>\n            <h3 class=\"nm\">{{ nm }}</h3>\n            <p class=\"bl\">{{ bl }}</p>\n            <span class=\"shop\">Coming Soon</span>\n          </a>\n        {%- endfor -%}\n      {%- endif -%}\n    </div>\n  </div></section>\n\n  <section class=\"ed\">\n    <div class=\"media\">{%- if hero.featured_image -%}<img src=\"{{ hero.featured_image | image_url: width: 1100 }}\" alt=\"{{ hero.title | escape }}\">{%- else -%}<div class=\"ph\">🌸</div>{%- endif -%}</div>\n    <div class=\"copy\">\n      <span class=\"eyebrow\">Bestseller</span>\n      <h2 class=\"disp\">{{ hero.title | default: names[0] }}</h2>\n      <ul class=\"feat\">\n        <li>Gentle, skin- and hair-loving formulas</li>\n        <li>Premium quality, beautifully simple to use</li>\n        <li>Loved by our customers</li>\n        <li>Cash on delivery available</li>\n      </ul>\n      {%- if hero -%}<div class=\"price\">{{ hero.price | money }}</div>{%- endif -%}\n      <div><a class=\"btn\" href=\"{{ hero.url | default: routes.all_products_collection_url }}\">Shop Now</a></div>\n    </div>\n  </section>\n\n  <section class=\"quote\"><div class=\"wrap\">\n    <span class=\"eyebrow\">The Silkara Promise</span>\n    <blockquote>“Beautiful skin and hair start with care that feels effortless — gentle, glowing, and made to be enjoyed every day.”</blockquote>\n  </div></section>\n\n  <section class=\"sect\"><div class=\"wrap\">\n    <div class=\"trio\">\n      <div class=\"ti\"><div class=\"ico\">🌸</div><h3>Gentle &amp; Effective</h3><p>Kind, thoughtfully chosen formulas that truly work.</p></div>\n      <div class=\"ti\"><div class=\"ico\">✦</div><h3>Quietly Luxurious</h3><p>Beautiful essentials that feel as good as they look.</p></div>\n      <div class=\"ti\"><div class=\"ico\">💌</div><h3>Easy &amp; Trusted</h3><p>Cash on delivery and friendly local support.</p></div>\n    </div>\n  </div></section>\n\n  <section class=\"nl\"><div class=\"wrap\">\n    <span class=\"eyebrow\">Join Silkara</span>\n    <h2 class=\"disp\">10% off your first order</h2>\n    <p>Sign up for early access, new drops and gentle self-care notes.</p>\n    {%- form 'customer' -%}\n      <input type=\"hidden\" name=\"contact[tags]\" value=\"newsletter,homepage\">\n      <input type=\"email\" name=\"contact[email]\" placeholder=\"Your email address\" required>\n      <button type=\"submit\" class=\"btn\">Subscribe</button>\n      {%- if form.posted_successfully? -%}<p style=\"width:100%;color:var(--accent);margin-top:14px;\">Thank you — welcome to Silkara.</p>{%- endif -%}\n    {%- endform -%}\n  </div></section>\n\n  <footer class=\"ft\"><div class=\"wrap\">\n    <div class=\"ft-grid\">\n      <div><div class=\"name\">SILKARA</div><p class=\"tag\">Premium skincare &amp; haircare essentials, thoughtfully chosen and delivered to your door.</p></div>\n      <div><h4>Shop</h4><ul>\n        {%- assign ftprods = collections.all.products -%}\n        {%- if ftprods.size > 0 -%}\n          {%- for prod in ftprods limit: 5 -%}<li><a href=\"{{ prod.url }}\">{{ prod.title }}</a></li>{%- endfor -%}\n        {%- else -%}<li><a href=\"{{ routes.all_products_collection_url }}\">All Products</a></li>{%- endif -%}\n      </ul></div>\n      <div><h4>Help</h4><ul><li><a href=\"/pages/contact\">Contact</a></li><li><a href=\"/pages/shipping\">Shipping</a></li><li><a href=\"/pages/returns\">Returns</a></li><li><a href=\"/pages/about\">About</a></li></ul></div>\n    </div>\n    <div class=\"ft-bottom\"><p>© {{ 'now' | date: '%Y' }} Silkara · Skin &amp; Hair</p><span class=\"cod\">Cash on Delivery available</span></div>\n  </div></footer>\n\n  <div class=\"cd-ov\" id=\"sk-cd-ov\" onclick=\"skCartClose()\"></div>\n  <aside class=\"cd\" id=\"sk-cd\" aria-label=\"Cart\">\n    <div class=\"cd-head\"><h3>Cart (<span id=\"sk-cd-count\">{{ cart.item_count }}</span>)</h3><button class=\"cd-close\" onclick=\"skCartClose()\">×</button></div>\n    <div class=\"cd-items\" id=\"sk-cd-items\"></div><div class=\"cd-foot\" id=\"sk-cd-foot\"></div>\n  </aside>\n\n</div>\n\n<script>\n(function(){\n  function fmt(c){ return \"$\"+(c/100).toFixed(2); }\n  var ov=document.getElementById(\"sk-cd-ov\"),cd=document.getElementById(\"sk-cd\"),itemsEl=document.getElementById(\"sk-cd-items\"),footEl=document.getElementById(\"sk-cd-foot\");\n  function render(cart){\n    document.getElementById(\"sk-cd-count\").textContent=cart.item_count;\n    var hc=document.getElementById(\"sk-count\"); if(hc) hc.textContent=cart.item_count;\n    if(cart.item_count===0){ itemsEl.innerHTML='<div class=\"cd-empty\"><p>Your cart is empty.</p></div>'; footEl.innerHTML=\"\"; return; }\n    var h=\"\";\n    cart.items.forEach(function(it,i){\n      h+='<div class=\"cd-item\"><img src=\"'+(it.image?it.image.replace(/(\\.[a-z]+)(\\?|$)/i,\"_140x$1$2\"):\"\")+'\" alt=\"\">'\n       +'<div style=\"flex:1\"><a class=\"cd-title\" href=\"'+it.url+'\">'+it.product_title+'</a>'\n       +(it.variant_title?'<div style=\"font-size:12px;color:#B7A6A2\">'+it.variant_title+'</div>':'')\n       +'<div class=\"cd-qty\"><button onclick=\"skCartChange('+(i+1)+','+(it.quantity-1)+')\">−</button><span>'+it.quantity+'</span><button onclick=\"skCartChange('+(i+1)+','+(it.quantity+1)+')\">+</button></div>'\n       +'<button class=\"cd-rm\" onclick=\"skCartChange('+(i+1)+',0)\">Remove</button></div>'\n       +'<div style=\"font-family:Cormorant Garamond,serif;font-size:18px;color:#3E2F33\">'+fmt(it.final_line_price)+'</div></div>';\n    });\n    itemsEl.innerHTML=h;\n    footEl.innerHTML='<div class=\"cd-sub\"><span>Subtotal</span><b>'+fmt(cart.total_price)+'</b></div><p style=\"font-size:11px;letter-spacing:1px;color:#B7A6A2;margin:0 0 8px\">Cash on delivery · taxes at checkout.</p><a class=\"cd-co\" href=\"/checkout\">Checkout</a>';\n  }\n  function refresh(){ fetch(\"/cart.js\").then(function(r){return r.json();}).then(render); }\n  window.skCartOpen=function(){ ov.classList.add(\"open\"); cd.classList.add(\"open\"); document.body.style.overflow=\"hidden\"; refresh(); };\n  window.skCartClose=function(){ ov.classList.remove(\"open\"); cd.classList.remove(\"open\"); document.body.style.overflow=\"\"; };\n  window.skCartChange=function(line,qty){ fetch(\"/cart/change.js\",{method:\"POST\",headers:{\"Content-Type\":\"application/json\"},body:JSON.stringify({line:line,quantity:qty})}).then(function(r){return r.json();}).then(render); };\n  refresh();\n})();\n</script>"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "tabs",
+    "section_announcement_gVGPyg",
+    "double",
+    "section_announcement_bnndaY",
+    "section_liquid_qgzDMr",
+    "icons",
+    "section_liquid_ttLQNK"
+  ]
+}
