@@ -11,6 +11,7 @@
   "sections": {
     "hero": {
       "type": "section-hero",
+      "disabled": true,
       "settings": {
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
@@ -94,9 +95,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "kicker": "At Aurea Beauty",
+            "kicker": "At silkara Beauty",
             "title": "",
-            "text": "<p>At our beauty store, we believe confidence starts with feeling your best. We carefully select trending beauty products designed to enhance your natural beauty, simplify your routine, and deliver real results. Our mission is to offer high-quality products, reliable service, and a seamless shopping experience for every customer.<br/><br/>- Premium Beauty Products<br/>- Fast Delivery Across Lebanon<br/>-Customer Satisfaction First<br/>-Safe & Secure Shopping</p>",
+            "text": "<p>At silkara beautystore, we believe confidence starts with feeling your best. We carefully select trending beauty products designed to enhance your natural beauty, simplify your routine, and deliver real results. Our mission is to offer high-quality products, reliable s ervice, and a seamless shopping experience for every customer.<br/><br/>- Premium Beauty Products<br/>- Fast Delivery Across Lebanon<br/>-Customer Satisfaction First<br/>-Safe & Secure Shopping</p>",
             "font_size": 5,
             "text_columns": 1,
             "align_text": "text-left",
@@ -128,6 +129,7 @@
       "blocks": {
         "text_BDMcJC": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Aurea Beauty</strong></p>"
           }
@@ -136,6 +138,7 @@
       "block_order": [
         "text_BDMcJC"
       ],
+      "disabled": true,
       "name": "Scrolling promotion",
       "settings": {
         "bg_color": "#dbb4b8",
@@ -147,6 +150,7 @@
     },
     "section_liquid_qgzDMr": {
       "type": "section-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "custom_liquid": "<style>\n  .faq-section {\n    max-width: 760px;\n    margin: 35px auto;\n    padding: 0 16px;\n    font-family: inherit;\n  }\n\n  .faq-title {\n    text-align: center;\n    font-size: 28px;\n    font-weight: 800;\n    margin-bottom: 22px;\n  }\n\n  .faq-item {\n    border: 1px solid #eee;\n    border-radius: 14px;\n    margin-bottom: 12px;\n    padding: 16px 18px;\n    background: #fff7fa;\n  }\n\n  .faq-question {\n    font-weight: 700;\n    font-size: 16px;\n    margin-bottom: 8px;\n  }\n\n  .faq-answer {\n    font-size: 15px;\n    color: #555;\n    line-height: 1.6;\n  }\n</style>\n\n<div class=\"faq-section\">\n  <h2 class=\"faq-title\">FAQ's</h2>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How can I contact you?</div>\n    <div class=\"faq-answer\">\n      You can contact us directly through WhatsApp for any questions or order support.\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How long does delivery take?</div>\n    <div class=\"faq-answer\">\n      Delivery usually takes between 5 to 7 days, depending on your location.\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">Are the products safe to use?</div>\n    <div class=\"faq-answer\">\n      Yes, our products are carefully selected and safe to use when following the product instructions.\n    </div>\n  </div>\n</div>"
