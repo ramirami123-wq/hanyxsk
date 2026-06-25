@@ -11,7 +11,6 @@
   "sections": {
     "hero": {
       "type": "section-hero",
-      "disabled": true,
       "settings": {
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
@@ -41,7 +40,6 @@
       "block_order": [
         "tab-0"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "progress_bar": "mobile",
@@ -60,12 +58,14 @@
       "blocks": {
         "text_iNqR6n": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Delivery All Over Lebanon</strong></p>"
           }
         },
         "icon_block_HWwC9e": {
           "type": "icon_block",
+          "disabled": true,
           "settings": {
             "text": "",
             "icon_name": "icon-truck",
@@ -112,7 +112,6 @@
       "block_order": [
         "text"
       ],
-      "disabled": true,
       "settings": {
         "height": "use_screen_one_half",
         "brick_gutter": 0,
@@ -137,7 +136,6 @@
       "block_order": [
         "text_BDMcJC"
       ],
-      "disabled": true,
       "name": "Scrolling promotion",
       "settings": {
         "bg_color": "#dbb4b8",
@@ -149,7 +147,6 @@
     },
     "section_liquid_qgzDMr": {
       "type": "section-liquid",
-      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "custom_liquid": "<style>\n  .faq-section {\n    max-width: 760px;\n    margin: 35px auto;\n    padding: 0 16px;\n    font-family: inherit;\n  }\n\n  .faq-title {\n    text-align: center;\n    font-size: 28px;\n    font-weight: 800;\n    margin-bottom: 22px;\n  }\n\n  .faq-item {\n    border: 1px solid #eee;\n    border-radius: 14px;\n    margin-bottom: 12px;\n    padding: 16px 18px;\n    background: #fff7fa;\n  }\n\n  .faq-question {\n    font-weight: 700;\n    font-size: 16px;\n    margin-bottom: 8px;\n  }\n\n  .faq-answer {\n    font-size: 15px;\n    color: #555;\n    line-height: 1.6;\n  }\n</style>\n\n<div class=\"faq-section\">\n  <h2 class=\"faq-title\">FAQ's</h2>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How can I contact you?</div>\n    <div class=\"faq-answer\">\n      You can contact us directly through WhatsApp for any questions or order support.\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">How long does delivery take?</div>\n    <div class=\"faq-answer\">\n      Delivery usually takes between 5 to 7 days, depending on your location.\n    </div>\n  </div>\n\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">Are the products safe to use?</div>\n    <div class=\"faq-answer\">\n      Yes, our products are carefully selected and safe to use when following the product instructions.\n    </div>\n  </div>\n</div>"
@@ -185,7 +182,6 @@
         "icons-1",
         "icons-2"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "bg": "palette--light bg--neutral",

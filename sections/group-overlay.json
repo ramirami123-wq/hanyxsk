@@ -13,7 +13,6 @@
   "sections": {
     "cart": {
       "type": "cart-drawer",
-      "disabled": true,
       "settings": {
         "cart_shipping_enable": false,
         "cart_show_quantity": true,
@@ -50,7 +49,6 @@
       "block_order": [
         "cookies"
       ],
-      "disabled": true,
       "settings": {}
     }
   },

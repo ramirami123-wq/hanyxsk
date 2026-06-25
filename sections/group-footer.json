@@ -44,7 +44,6 @@
         "linklist-2",
         "social"
       ],
-      "disabled": true,
       "settings": {
         "menu_position": "left",
         "logo_max_limit": 120,
@@ -55,7 +54,6 @@
     },
     "subfooter": {
       "type": "subfooter",
-      "disabled": true,
       "settings": {
         "footer_secondary_linklist": "footer",
         "footer_payment_enable": false,
