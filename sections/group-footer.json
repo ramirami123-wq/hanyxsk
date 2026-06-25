@@ -44,6 +44,7 @@
         "linklist-2",
         "social"
       ],
+      "disabled": true,
       "settings": {
         "menu_position": "left",
         "logo_max_limit": 120,
