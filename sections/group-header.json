@@ -58,6 +58,7 @@
       "blocks": {
         "header-block-toolbar": {
           "type": "toolbar",
+          "disabled": true,
           "settings": {
             "announcement_text": "<p>This is announcement <em><strong>richtext</strong></em> from an announcement block</p>",
             "secondary_linklist": "",
@@ -129,7 +130,6 @@
         "header-block-image-2",
         "header-block-image-3"
       ],
-      "disabled": true,
       "settings": {
         "header_style": "logo_center",
         "logo_max_limit": 120,

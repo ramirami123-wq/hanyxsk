@@ -9,24 +9,6 @@
  */
 {
   "sections": {
-    "hero": {
-      "type": "section-hero",
-      "disabled": true,
-      "settings": {
-        "height": "use_screen_two_thirds",
-        "overlay_opacity": 15,
-        "overlay_color": "#000000",
-        "enable_overlay_text": false,
-        "preload_image": true,
-        "content_width": 2000,
-        "text_align": "align--middle-center",
-        "text_color": "text--white",
-        "color_bg": "hero__content--transparent",
-        "width": "wrapper--none",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "tabs": {
       "type": "section-collection-tabs",
       "blocks": {
@@ -113,6 +95,7 @@
       "block_order": [
         "text"
       ],
+      "disabled": true,
       "settings": {
         "height": "use_screen_one_half",
         "brick_gutter": 0,
@@ -200,7 +183,6 @@
     }
   },
   "order": [
-    "hero",
     "tabs",
     "section_announcement_gVGPyg",
     "double",
