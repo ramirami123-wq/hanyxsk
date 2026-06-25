@@ -45,30 +45,10 @@
             "bg": "palette--light bg--neutral",
             "position": "popup--bottom"
           }
-        },
-        "newsletter_signup": {
-          "type": "newsletter",
-          "disabled": true,
-          "settings": {
-            "title": "Join the club",
-            "text": "<p>Enter your email to save 10% on your next order</p>",
-            "success": "Success! Use code CLUB10 to save 10%",
-            "text_color": "text--neutral",
-            "bg": "palette--light bg--neutral",
-            "position": "popup--right",
-            "trigger": "always",
-            "target_url_enabled": false,
-            "target_url": "",
-            "target_referrer_enabled": false,
-            "target_referrer": "",
-            "target_device_enabled": false,
-            "target_device": "mobile"
-          }
         }
       },
       "block_order": [
-        "cookies",
-        "newsletter_signup"
+        "cookies"
       ],
       "disabled": true,
       "settings": {}
